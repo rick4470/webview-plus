@@ -29,7 +29,7 @@ $ sudo npm install -g cocoonjs
 
 $ cocoonjs create MyProject
 $ cd MyProject
-$ cocoonjs platform add ios
+$ cocoonjs platform add android
 $ cocoonjs plugin add com.ludei.webview.plus -d
 $ cocoonjs run/emulate
 ```
